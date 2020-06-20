@@ -229,3 +229,14 @@ jupyter-notebook
 If you find this code useful, please consider citing our paper:
 
 > Javier Antorán, James Urquhart Allingham, & José Miguel Hernández-Lobato. (2020). Depth Uncertainty in Neural Networks. [[bibtex]](DUN.bib)
+
+```bibtex
+@misc{antoran2020depth,
+    title={Depth Uncertainty in Neural Networks},
+    author={Javier Antorán and James Urquhart Allingham and José Miguel Hernández-Lobato},
+    year={2020},
+    eprint={2006.08437},
+    archivePrefix={arXiv},
+    primaryClass={stat.ML}
+}
+``` 
